@@ -1,4 +1,4 @@
-##README for run_analysis.R
+###README for run_analysis.R
 
 
 The script run_analysis.R executes the following steps and ends with the creation of a tidy datafile called "tidy.txt".
