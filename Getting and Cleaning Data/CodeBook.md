@@ -1,13 +1,13 @@
-##This Codebook describes the fields in the output file "tidy.txt"
+## This Codebook describes the fields in the output file "tidy.txt"
 
-###Processing of data
+### Processing of data
 * Data was retrieved from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 * Data was processed with run_analysis.R
 
-###Data
+### Data
 * The file "tidy.txt" summarizes the average of each measurement for each activity and subject variable.
 
-###Variable
+### Variable
 * activity = (WALKING, 
 WALKING_UPSTAIRS, 
 WALKING_DOWNSTAIRS, 
@@ -16,7 +16,7 @@ STANDING,
 LAYING)
 * subject (1,2,3,4,5,6)
 
-###Measurement
+### Measurement
 * tBodyAcc-mean()-Z
 * tBodyAcc-std()-X
 * tBodyAcc-std()-Y
